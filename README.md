@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a casino management system**
 
-- 👯 I’m looking to collaborate on **blockchain and/or scientific projects**
+- 👯 I’m looking to collaborate on **blockchain and scientific projects**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/ehsan0x](https://github.com/ehsan0x)
 
